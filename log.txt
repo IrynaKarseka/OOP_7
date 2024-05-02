@@ -1,0 +1,26 @@
+мая 02, 2024 10:40:38 PM FileLog log
+INFO: Значение калькулятора Complex{Re=3.0, Im=-7.0}. Начало вызова метода sum с параметром Complex{Re=-5.0, Im=-9.0}
+мая 02, 2024 10:40:38 PM FileLog log
+INFO: Вызов метода sum произошел.
+мая 02, 2024 10:40:41 PM FileLog log
+INFO: Получение результата Complex{Re=-2.0, Im=-16.0}
+мая 02, 2024 10:43:05 PM FileLog log
+INFO: Получение результата Complex{Re=2.0, Im=5.0}
+мая 02, 2024 10:44:07 PM FileLog log
+INFO: Значение калькулятора Complex{Re=2.0, Im=5.0}. Начало вызова метода sum с параметром Complex{Re=4.0, Im=-3.0}
+мая 02, 2024 10:44:07 PM FileLog log
+INFO: Вызов метода sum произошел.
+мая 02, 2024 10:44:10 PM FileLog log
+INFO: Получение результата Complex{Re=6.0, Im=2.0}
+мая 02, 2024 10:48:24 PM FileLog log
+INFO: Значение калькулятора Complex{Re=4.0, Im=4.0}. Начало вызова метода div с параметром Complex{Re=4.0, Im=4.0}
+мая 02, 2024 10:48:24 PM FileLog log
+INFO: Вызов метода div произошел.
+мая 02, 2024 10:48:26 PM FileLog log
+INFO: Получение результата Complex{Re=1.0, Im=0.0}
+мая 02, 2024 10:49:34 PM FileLog log
+INFO: Значение калькулятора Complex{Re=4.0, Im=7.0}. Начало вызова метода multi с параметром Complex{Re=7.0, Im=7.0}
+мая 02, 2024 10:49:34 PM FileLog log
+INFO: Вызов метода multi произошел.
+мая 02, 2024 10:49:37 PM FileLog log
+INFO: Получение результата Complex{Re=11.0, Im=14.0}
